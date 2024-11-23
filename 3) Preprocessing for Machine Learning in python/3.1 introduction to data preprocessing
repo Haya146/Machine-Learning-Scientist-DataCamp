@@ -1,0 +1,12 @@
+## What is data Preprocessing ?      
+              
+- After exploratory data analysis (EDA) and data cleaning   
+- Preparing data for modeling      
+                     
+**Example**: Transforming categorical features into numerical features (dummy variables)
+
+## Why preprocess      
+
+- Transform dataset so it's suitable for modeling           
+- Improve model performance    
+- Improve more reliable results     
